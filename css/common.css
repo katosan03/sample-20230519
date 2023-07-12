@@ -103,9 +103,9 @@ img {
         background-color: #736e62;
         padding-top: 30px;
         padding-bottom: 50px;
-        display: none;
+        display: none 
     }
-/*
+
     .header-site-menu.is-show{
         display: block;
     }
@@ -123,7 +123,7 @@ img {
         border-radius: 0;
         outline: none;
     }
-*/
+
     .main {
         padding-top: 50px;
     }
